@@ -2,6 +2,7 @@ Tic-Tac-Toe Game in Python
 
 1. Introduction
 ---------------
+
 This project is a simple and easy-to-understand Tic‑Tac‑Toe game made using Python.
 It runs in the terminal and lets two players, X and O, take turns by entering positions.
 from 1 to 9. The goal of this project was to practice basic Python concepts while creating
@@ -10,6 +11,7 @@ a small but complete working game. It uses simple logic, lists, and functions—
 
 2. How the Game Works
 ----------------------
+
 - The game uses a list with 9 positions to represent the 3×3 board.
 After each play, the board is printed so the players can view it.
 - Players choose a number between 1 and 9 to place their symbol.
@@ -18,8 +20,10 @@ After each play, the board is printed so the players can view it.
 
 - Turns are switched automatically between Player X and Player O.
 - A match is drawn when the board has filled up and no one has won.
+
 3. Winner's Logic
 ----------------
+
 There are 8 possible ways to win:
 
 - 3 rows
@@ -27,7 +31,6 @@ There are 8 possible ways to win:
 - 3 columns
 - 2 diagonals
 The player will win if he/she can fill any one of these lines with their symbol.
-
 
 4. Running the Game
 - -----------------------
@@ -41,7 +44,6 @@ The player will win if he/she can fill any one of these lines with their symbol.
 python tic_tac_toe.py
 5. Observe whatever is displayed on the screen.
 
-
 5. What You Learn From This Project
 ---------------------------------
 
@@ -51,11 +53,15 @@ python tic_tac_toe.py
 - How to accept and validate player input
 - How simple game logic is designed and implemented
 
-
 6. File Structure
 -----------------
+
 project-folder/
 │
 ├── tic_tac_toe.py
 
-└── README.md 7. Conclusion Sternbach  Static Rust's goal is to allow you, the programmer, to write safe code without sacrificing performance. This small project is great for anyone just starting with Python. It teaches how a simple game can be built from scratch using basic programming ideas. This game can later be enhanced by adding features such as a computer opponent. A graphical interface, or even a scoring system.
+└── README.md 
+
+7. Conclusion
+
+Sternbach Static Rust's goal is to allow you, the programmer, to write safe code without sacrificing performance. This small project is great for anyone just starting with Python. It teaches how a simple game can be built from scratch using basic programming ideas. This game can later be enhanced by adding features such as a computer opponent. A graphical interface, or even a scoring system.
