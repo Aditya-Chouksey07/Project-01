@@ -71,7 +71,8 @@ project-folder/
 
 Step 7. Conclusion
 
-This small project is great for anyone just starting with Python. It teaches how a simple game can be built from scratch using basic programming ideas. This game can later be enhanced by adding features such as a computer opponent , A graphical interface , or even a scoring system.
+This small project is great for anyone just starting with Python. It teaches how a simple game can be built from scratch using basic programming ideas. This game can later be enhanced by adding features such as a computer opponent , a graphical interface , or even a scoring system.
+
 
 
 
